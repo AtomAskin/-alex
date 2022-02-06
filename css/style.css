@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+    margin: 0 auto;
+    width: 1440px;
+     height: 768px;
+  
+    }
+/* navbar */
+.navbar{
+    background-color:rgb(219, 211, 211);
+    height: 46px;
+    width: 1440px;
+display: inline-block;
+position: absolute;
+}
+
+.navtext{
+    position: absolute;
+    display:inline-block;
+    font-family: Gilroy-Bold;
+font-size: 34px;
+line-height: 42px;
+color: black;
+left: 39px;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+
+.navsoc1{
+    position: absolute;
+    display:inline-block;
+    font-family: Gilroy-Bold;
+font-size: 34px;
+line-height: 42px;
+color: black;
+left: 795px;
+    top: 0;
+}
+
+.navsoc2{
+    position: absolute;
+    display: inline-block;
+    font-family: Gilroy-Bold;
+font-size: 34px;
+line-height: 42px;
+color: black;
+left: 1153px;
+top: 0px;
+}
+
+/* contant */
+
+.contant{
+    position: relative;
+    top: 60px;
+}
+.logo{
+   
+position: relative;
+
+height: 285px;
+left: 180px;
+top: 47.94px
+
+}
+.contanttext{
+    position: relative;
+    display: inline-block;
+    font-family: Gilroy-Bold;
+font-size: 34px;
+line-height: 42px;
+color: black;
+top: -191px;
+left: 434px;
+}
+
+.contantfoto1{
+    position: relative;
+    height: 188px;
+    top: 25px;
+    left: -46px;
+   
+}
+
+.contantfoto2{
+    position:relative;
+    height: 188px;
+    top: 25px;
+}
+
+.navsocins{
+    position: relative;
+    width: 20px;
+    left: 10px;
+}
+
+.navsocyou{
+    position: relative;
+    width: 30px;
+    left: 5px;
+}
+
+/* reel */
+.reel{
+    position: relative;
+    background-color:rgb(219, 211, 211);
+    width: 1440px;
+    top: 195px;
+text-align: center;
+}
+
+.reeltitle{
+    position: relative;
+    font-family: Gilroy-Bold;
+font-size: 34px;
+line-height: 42px;
+}
+
+.reeltext2{
+    position: relative;
+    font-family: Gilroy-Bold;
+font-size: 34px;
+line-height: 42px;
+
+}
+
+.text{
+    margin: 0 auto;
+    width: 720px;
+}
+
+/* card */
+.card{
+    position:relative;
+    width: 1440px;
+    top: 225px;   
+    
+}
+.cardyou{
+    display: inline-block;
+    position: relative;
+width: 250px;
+height: 300px;
+left: 250px;
+text-align: center;}
+.cardyou1{
+    position: relative;
+    width: 30px;
+}
+
+.cardyoutext{
+    position: relative;
+    font-family: Gilroy-Bold;
+font-size: 34px;
+line-height: 42px;
+}
+
+.cardyoutext1{
+    font-family: Gilroy-Bold;
+font-size: 24px;
+line-height: 25px;
+}
+
+.cardins{
+    display: inline-block;
+    position: relative;
+width: 250px;
+height: 300px;
+left: 657px;
+top: -74px;
+text-align: center;}
+
+.cardinstext{
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    line-height: 42px;   
+}
+
+.game{
+    width: 250px; 
+}
+
+.contact{
+    position:relative;
+    width: 1440px;
+    top: 225px;   
+    text-align: center;
+    display: inline-block;
+}
+
+.contacttext{
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    line-height: 42px;
+}
+
+.contacttext2{
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    line-height: 42px;
+}
+
+.contanttext3{
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    line-height: 42px;
+    left: 10px;
+}
